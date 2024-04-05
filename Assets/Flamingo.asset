@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e188994739a7874391e56a19c5ae899, type: 3}
+  m_Name: Flamingo
+  m_EditorClassIdentifier: 
+  name: Flamingo
+  description: flamingo kick
+  towerPrefab: {fileID: 9022993459402369346, guid: c202d96b4a6384640b6e1e5fd6350d19, type: 3}
+  towerSprite: {fileID: 267581864, guid: 1bca6b0ceaac6d7409143881a4180543, type: 3}
